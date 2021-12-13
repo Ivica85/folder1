@@ -1,6 +1,7 @@
 <?php
 
-Hello World!
+echo "Hello World!";
+echo ""Doing some checkings";
 
 
 ?>
